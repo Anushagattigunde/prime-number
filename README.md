@@ -19,7 +19,7 @@ int main()
 {
     int num = 0;
 
-    printf("Enter a number: ");
+    printf("Enter a number:476");
     scanf("%d", &num);
 
     if (checkPrime(num, num / 2) == 1)
